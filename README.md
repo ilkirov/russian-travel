@@ -8,6 +8,6 @@
 HTML, CSS, Flexbox, Grid layout, Figma, адаптивная верстка
 
 ### Ссылка на проект:
-<a href="ilkirov.github.io/russian-travel" target="_blank">Проект</a>
+<a href="https://ilkirov.github.io/yet-another-project/index.html" target="_blank">Проект</a>
 
 
