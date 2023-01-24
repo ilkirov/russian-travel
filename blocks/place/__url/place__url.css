@@ -1,12 +1,12 @@
 .place__url {
     font-family: 'Inter', Arial, sans-serif;
-    text-decoration: none;
     color: #AAAAAA;
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 12px;
-    text-align: left;
+    letter-spacing: 2px;
+    text-decoration: none;
     margin: 0 0 12px 0;
 }
 @media screen and (max-width: 767px) {

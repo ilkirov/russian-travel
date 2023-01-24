@@ -1,4 +1,6 @@
 .place {
+    margin: 0;
+    padding: 0;
     display: grid;
     grid-template-columns: minmax(440px, 460px) 1fr;
     grid-template-rows: repeat(2, min-content);
@@ -27,8 +29,7 @@
     .place {
         grid: 600px auto / 1fr;
         grid-template-rows: 1fr;
-        padding-left: 0;
-        padding-right: 50px;
+        
         grid-row-gap: 32px;
     }
 }
