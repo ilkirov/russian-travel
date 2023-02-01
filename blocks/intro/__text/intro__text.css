@@ -2,15 +2,10 @@
     margin: 0;
     max-width: 720px;
     font-weight: 400;
-    font-style: regular;
+    font-style: normal;
     font-size: 16px;
     line-height: 26px;
     text-align: left;
-}
-@media screen and (max-width: 1023px) {
-    .intro__text {
-        max-width: 720px;
-    }
 }
 @media screen and (max-width: 767px) {
     .intro__text {
