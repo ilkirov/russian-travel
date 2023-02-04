@@ -1,20 +1,22 @@
 .intro__title {
-    max-width: 720px;
-    margin: 0 0 40px 0;
+    min-width: 288px;
+    margin: 0;
+    padding: 64px 0 0 0;
     font-family: 'Inter', Arial, sans-serif;
     font-weight: 900;
     font-style: normal;
-    font-size: 54px;
-    line-height: 58px;
-    text-align: left;
-
+    font-size: 32px;
+    line-height: 1.1;
 }
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 768px) {
     .intro__title {
-        max-width: 690px;
-        width: 100%;
-        margin: 0 auto 40px auto;
-        font-size: 32px;
-        line-height: 35px;
+        padding-top: 88px;
+        font-size: 54px;
+        line-height: 1.04;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .intro__title {
+        padding-top: 92px;
     }
 }
